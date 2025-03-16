@@ -1,7 +1,3 @@
-Below is a complete `README.md` file that provides detailed, step-by-step instructions on how to install Tailwind CSS using the latest and most reliable approach. This guide is designed to help users who are struggling with installation by covering every step thoroughly and addressing common problems with their solutions. The method uses Vite as the build tool due to its speed and popularity in modern web development.
-
----
-
 # Tailwind CSS Installation Guide
 
 Tailwind CSS is a utility-first CSS framework that allows you to create custom designs directly in your HTML or component files using pre-defined classes. It’s highly customizable and speeds up development by reducing the need for custom CSS.
