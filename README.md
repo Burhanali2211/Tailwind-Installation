@@ -6,7 +6,7 @@ This `README.md` file provides a comprehensive guide to installing Tailwind CSS 
 
 ---
 
-## Prerequisites
+## Prerequisites S
 
 Before starting, ensure you have the following installed on your system:
 
