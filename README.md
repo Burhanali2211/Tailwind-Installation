@@ -235,5 +235,3 @@ For further assistance, explore these official resources:
 - [Tailwind Installation Guide](https://tailwindcss.com/docs/installation)
 
 ---
-
-This guide ensures you can install Tailwind CSS successfully using a modern, reliable approach. If you still face issues, double-check each step or consult the Tailwind community for help. Happy coding!
