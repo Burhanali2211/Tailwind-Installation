@@ -16,7 +16,7 @@ Before starting, ensure you have the following installed on your system:
 To verify they’re installed, open your terminal and run:
 
 ```bash
-node -v
+node -v S
 npm -v
 ```
 
